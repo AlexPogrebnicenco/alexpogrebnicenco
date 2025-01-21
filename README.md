@@ -17,17 +17,20 @@ A closed website for authorized users where they can place orders for bakery pro
 ### [smth](#)
 A mobile app built with React Native, providing movie recommendations and information. This project is part of my plan to create a useful application in the movie industry.
 
-## 📫 How to Reach Me
-
-- Email: alexpogrebnicenco@gmail.com
-- LinkedIn: [Alexandru Pogrebnicenco](https://www.linkedin.com/in/alexpogreb/)
-
 ## 🛠 Languages, Tools & Technologies
-<p>
-  
+<p align="center">
+   <img src="https://img.shields.io/badge/HTML-%23e34c26?style=for-the-badge&logo=HTML5&labelColor=black" alt="HTML5">
+   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=black" alt="CSS3">
+   <img src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=Javascript&logoColor=%23F7DF1E&labelColor=black" alt="Javascript">
+   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=black&color=%2361DAFB" alt="React">
+   <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=%2306B6D4&labelColor=black" alt="Tailwind CSS">
+   <img src="https://img.shields.io/badge/GIt-%23F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black" alt="Git">
 </p>
 
+## 📫 How to Reach Me
 
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/alexpogreb/)
+[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/AlexandrPogrebnicenco)
 
 ## 📈 GitHub Stats
 
