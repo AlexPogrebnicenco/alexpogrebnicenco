@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on cre
 
 - 🌍 I’m based in Moldova.
 - 👨‍💻 Currently, I’m working on personal projects to enhance my frontend development skills.
-- 🔧 Technologies I work with: JavaScript, HTML, CSS, React, Node.js.
 - 🎯 My goal: To become a proficient FullStack developer.
 
 ## 💻 My Projects
