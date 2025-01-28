@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate frontend developer focused on cre
 ### [Bakery Project](https://github.com/AlexPogrebnicenco/bakery)
 A closed website for authorized users where they can place orders for bakery products. This project includes only the client-side functionality, and product cards are dynamically generated using JavaScript.
 
-### [smth](#)
-A mobile app built with React Native, providing movie recommendations and information. This project is part of my plan to create a useful application in the movie industry.
+### [Autoservice app](#)
+Currently working on a mobile application for car service, using React Native, Expo, and Firebase.
 
 ## 🛠 Languages, Tools & Technologies
 <p align="center">
